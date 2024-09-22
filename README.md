@@ -1,5 +1,8 @@
 ## 🎨 Dark-Light Thema
 
+## 📸 Screenshots 📸
+![](thema.gif)
+
 
 
 ## Features
@@ -9,5 +12,4 @@
 - **⬅️ Shift Left**: Clicking again returns the ball to the left.
 
 
-## 📸 Screenshots 📸
-![](thema.gif)
+
